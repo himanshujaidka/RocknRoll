@@ -1,0 +1,117 @@
+#content{
+  padding-top: 70px;
+}
+#content2{
+  padding-top: 100px;
+}
+.discover{
+  padding-bottom: 50px;
+}
+.card1{
+  background-color:#f69e7b;
+  color: #383e56;
+}
+.card2{
+  background-color: #442727;
+  color:#eae7d9;
+}
+.card3{
+  background-color: #f3c623;
+  color: #127681;
+}
+.card4{
+  background-color: #a35638;
+  color: #64ccda;
+}
+.card5{
+  background-color: #e79cc2;
+  color: #1d1b38;
+}
+.card6{
+  background-color: #d32626;
+  color: #79d70f;
+}
+.card-img-top {
+  width: 100%;
+  height: 25vw;
+}
+.card-head{
+  font-family: 'Montserrat', sans-serif;
+
+}
+.card-text{
+  font-family: 'Montserrat', sans-serif;
+}
+.discover{
+  font-family: 'Merienda One', cursive;
+  margin-right: 100px;
+  font-weight: bolder;
+}
+.dis-img{
+  margin-left: 200px;
+  width: 30%;
+  padding-bottom: 50px;
+}
+#review{
+  padding-top: 100px;
+}
+.card-rev{
+  margin-left: 20px;
+  margin-top: 50px;
+  border-radius: 20%;
+
+
+  height: 20vw;
+}
+.card-new{
+  background-color: #222831;
+  color: #29a19c;
+}
+hr{
+border: dotted #6a097d 6px;
+border-bottom: none;
+width: 30%;
+margin: 50px auto;
+}
+#party{
+  background-color: #f2ed6f;
+  padding-bottom: 50px;
+}
+
+.party-h{
+  font-family: 'Rubik', sans-serif;
+  text-align:center;
+  padding: 50px 0px 50px 0px;
+}
+h4{
+  font-family: 'Rubik', sans-serif;
+  text-align:center;
+  line-height: 3;
+  padding-bottom: 40px;
+}
+.prty-img{
+  margin-left: 100px;
+  border-radius: 100%;
+}
+.btn-1{
+  margin-left: 100px;
+  margin-right: 30px;
+}
+.give-us{
+  padding-top: 50px;
+  text-align: center;
+}
+.btn-feed{
+  margin-top: 20px;
+  margin-bottom: 50px;
+}
+#review{
+  background-color: white;
+}
+
+#contact{
+  padding: 7% 15%;
+  text-align: center;
+  background-color:#272343;
+  color: white;
+}
